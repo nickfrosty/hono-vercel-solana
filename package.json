@@ -2,6 +2,7 @@
   "name": "hono",
   "type": "module",
   "dependencies": {
+    "@solana/kit": "^2.3.0",
     "gill": "^0.10.3",
     "hono": "^4.9.2"
   },

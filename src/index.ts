@@ -1,5 +1,5 @@
-import type { Address } from "gill";
-import { address } from "gill";
+import type { Address } from "@solana/kit";
+import { address } from "@solana/kit";
 import { Hono } from "hono";
 
 const app = new Hono();

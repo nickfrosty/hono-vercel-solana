@@ -2,6 +2,7 @@
   "name": "hono",
   "type": "module",
   "dependencies": {
+    "gill": "^0.10.3",
     "hono": "^4.9.2"
   },
   "devDependencies": {
